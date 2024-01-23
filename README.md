@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on .NET Projects<br>👯 I’m looking to collaborate on Projects related to Data Analysis, Cloud Engineer and .NET Projectsr<br>🌱 I’m currently learning Cloud Engineering<br>💬 Ask me about Data Analysis, Cloud Engineering and Back-end projects<br>⚡ Fun fact - I'm open to learning 
+🔭 I’m currently working on .NET Projects<br>👯 I’m looking to collaborate on Projects related to Data Analysis, Cloud Engineering and .NET Projectsr<br>🌱 I’m currently learning.NET<br>💬 Ask me about Data Analysis, Cloud Engineering and Back-end projects<br>⚡ Fun fact - I'm open to learning 
 
 
 ## 🌐 Socials:
