@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on .NET Projects<br>👯 I’m looking to collaborate on Projects related to Data Analysis, Cloud Engineering and .NET Projectsr<br>🌱 I’m currently learning.NET<br>💬 Ask me about Data Analysis, Cloud Engineering and Back-end projects<br>⚡ Fun fact - I'm open to learning 
+🔭 I’m currently working on AI and Machine Learning projects<br>👯 I’m looking to collaborate on projects related to AI Engineering, Data Science, and Cloud-based AI solutions<br>🌱 I’m currently expanding my skills in Deep Learning and NLP<br>💬 Ask me about AI models, machine learning techniques, and data-driven solutions<br>⚡ Fun fact - I'm passionate about exploring innovative AI technologies and always eager to learn
 
 
 ## 🌐 Socials:
