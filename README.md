@@ -143,7 +143,7 @@
 
 <div align="center">
 
-*Open to data engineering, ML engineering, and AI engineering roles in the UK*
+*Open to data engineering, ML engineering, and AI engineering roles*
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dajuctech.dajuctech)
 
