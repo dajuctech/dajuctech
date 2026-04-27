@@ -4,7 +4,7 @@
 
 ### Data & AI Engineer 
 
-*I build ML pipelines, data systems, and AI-powered applications that work in production — not just in notebooks.*
+*I build ML pipelines, data systems, and AI-powered applications that work in production, not just in notebooks.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jude-591b76147/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@danieljude1992)
