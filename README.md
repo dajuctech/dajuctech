@@ -4,7 +4,7 @@
 
 ### Data & AI Engineer 
 
-*I build ML pipelines, data systems, and AI-powered applications that work in production, not just in notebooks.*
+*I build ML pipelines, data systems, and AI-powered applications that work in production — not just in notebooks.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jude-591b76147/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@danieljude1992)
@@ -88,11 +88,11 @@
 
 ---
 
-### 🤖 Simple RAG Project
-> Retrieval-Augmented Generation pipeline using LangChain and vector databases for document Q&A.
+### 🤖 Credit Risk Scorecard AI Agent
+> Retrieval-backed AI assistant that answers credit-risk scorecard questions from a controlled knowledge base, with hybrid text and vector search, agent tool-calling, and LLM-as-judge evaluation.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/dajuctech/simple-rag-project)
-`Python` `LangChain` `ChromaDB` `OpenAI`
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/dajuctech/ai-agents-crash-course/tree/main/aihero/project)
+`Python` `Pydantic AI` `OpenAI` `minsearch` `Streamlit`
 
 ---
 
@@ -106,7 +106,7 @@
 
 ## 💼 Work Experience
 
-- **ML & Data Science Intern**, 10mg Health *(Oct 2025 – Present)*
+- **AI and Data Engineer**, 10mg Health *(Oct 2025 – Present)*
   Credit risk ML pipelines, drift monitoring, FastAPI deployment, production support
 - **Business Applications Engineer**, CWG Plc *(Sep 2022 – Sep 2024)*
   Banking app support (Oracle, PostgreSQL, Finacle), Python monitoring, runbooks, JIRA
@@ -131,19 +131,19 @@
 
 ## 🏆 Certifications
 
-| Certification | Issuer | Year |
-|---|---|---|
-| MSc Artificial Intelligence (Distinction) | Birmingham City University | 2025 |
-| AWS Certified Cloud Practitioner | Amazon Web Services | 2023 |
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | 2022 |
-| Microsoft Azure AI Fundamentals (AI-900) | Microsoft | 2022 |
-| Google Data Analytics Certificate | Coursera | 2022 |
+| Certification | Issuer |
+|---|---|
+| MSc Artificial Intelligence (Distinction) | Birmingham City University |
+| AWS Certified Cloud Practitioner | Amazon Web Services |
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft |
+| Microsoft Azure AI Fundamentals (AI-900) | Microsoft |
+| Google Data Analytics Certificate | Coursera |
 
 ---
 
 <div align="center">
 
-*Open to data engineering, ML engineering, and AI engineering roles*
+*Open to data engineering, ML engineering, and AI engineering roles in the UK*
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dajuctech.dajuctech)
 
